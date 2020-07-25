@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Musical Structure App</string>
+
+
+    <string name="albums">Albums</string>
+    <string name="artists">Artists</string>
+    <string name="all_songs">All Songs</string>
+
+    <string name="u2">u2</string>
+    <string name="go_to_now_playing">Go To Now Playing</string>
+    <string name="back_to_library">Library</string>
+</resources>
